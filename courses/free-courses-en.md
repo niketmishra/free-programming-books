@@ -438,7 +438,9 @@
 * [Multiplayer Shooter Tutorials - Godot](https://www.youtube.com/playlist?list=PL6bQeQE-ybqDmGuN7Nz4ZbTAqyCMyEHQa) - PlugWorld
 * [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals) - Pluralsight Company (Unity Learn)
 * [Unity Beginner Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6) (Brackeys)
+* [Unity 2D Game Development](https://www.youtube.com/watch?v=3Vpf6vFOXTQ&list=PLvUqRm2B9RRBgJipfDmFR7sFhEwBn7aGT) - Rabid Gremlin
 * [Unity User Manual](https://docs.unity3d.com/Manual/)
+
 
 
 ### Git
